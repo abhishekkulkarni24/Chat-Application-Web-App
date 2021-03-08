@@ -69,7 +69,7 @@ span {
   margin: 0 !important;
   height: 60px;
   width: 100%;
-  background-color: #eee;
+  background-color: #03c6c71f;
   z-index: 1000;
 }
 
@@ -141,7 +141,7 @@ span {
   height: 100%;
   width: 100%;
   padding: 10px !important;
-  background-color: #fbfbfb;
+  background-color: #b7b5b51f;
 }
 
 
@@ -158,7 +158,7 @@ span {
 .sideBar {
   padding: 0 !important;
   margin: 0 !important;
-  background-color: #fff;
+  background-color: #03c6c71f;
   overflow-y: auto;
   border: 1px solid #f7f7f7;
   height: calc(100% - 120px);
@@ -309,7 +309,7 @@ span {
 .message {
   padding: 0 !important;
   margin: 0 !important;
-  background: url("w.jpg") no-repeat fixed center;
+  background: #b7b5b51f;
   background-size: cover;
   overflow-y: auto;
   border: 1px solid #f7f7f7;
@@ -398,7 +398,7 @@ span {
 .reply {
   height: 60px;
   width: 100%;
-  background-color: #f5f1ee;
+  background-color: #d4cdcd;
   padding: 10px 5px 10px 5px !important;
   margin: 0 !important;
   z-index: 1000;
